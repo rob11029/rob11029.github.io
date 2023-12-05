@@ -1,10 +1,10 @@
 <html>
 <head>
 <style>
-body {background-color: powderblue;}
+body {background-color:#7f8285;}
 body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
-h1   {color: Black;}
-p    {color: Black;}
+h1   {color: White;}
+p    {color: White;}
 </style>
 </head>
 <body>
