@@ -9,8 +9,8 @@ p    {color: White;}
 </style>
 </head>
 <body>
- <header>
-    <h1 align="center"><b>Roberto Chavez</b></h1>
+ <header align="center">
+    <h1><b>Roberto Chavez</b></h1>
     <p>This is my home page!I am a student at <a href='http://www.fullerton.edu/'>Cal State Fullerton</a> and my major is Computer Science.</p>
 </body>
 </html>
