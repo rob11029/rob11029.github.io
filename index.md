@@ -13,5 +13,8 @@ p    {color: White;}
  <header align="center">
     <h1><b>Roberto Chavez</b></h1>
     <p>This is my home page!I am a student at <a href='http://www.fullerton.edu/'>Cal State Fullerton</a> and my major is Computer Science.</p>
+ </header>
+
 </body>
 </html>
+
