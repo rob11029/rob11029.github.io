@@ -10,7 +10,7 @@ p    {color: White;}
 </style>
 </head>
 <body>
- <header style="padding:128px 16px" id="home">
+ <header>
     <h1 align="center"><b>Roberto Chavez</b></h1>
     <p>This is my home page!I am a student at <a href='http://www.fullerton.edu/'>Cal State Fullerton</a> and my major is Computer Science.</p>
 </body>
