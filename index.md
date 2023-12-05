@@ -8,6 +8,6 @@ p    {color: red;}
 </head>
 <body>
 
-#This is my home page! My name is Roberto Chavez and I am a student at <a href='http://www.fullerton.edu/'>Cal State Fullerton</a> and my major is Computer Science.
+<h1>This is my home page! My name is Roberto Chavez and I am a student at <a href='http://www.fullerton.edu/'>Cal State Fullerton</a> and my major is Computer Science.</h1>  
 </body>
 </html>
