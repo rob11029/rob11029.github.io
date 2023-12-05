@@ -1,1 +1,10 @@
-<h1 style="color:pink;"><strong>This is my home page! My name is Roberto Chavez and I am a student at <a href='http://www.fullerton.edu/'>Cal State Fullerton</a> and my major is Computer Science.</strong></h1>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="color:yellow;">A Blue Heading</h1>
+
+<p style="color:red;">A red paragraph.</p>
+
+</body>
+</html>
