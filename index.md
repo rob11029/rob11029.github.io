@@ -10,7 +10,8 @@ p    {color: White;}
 </style>
 </head>
 <body>
-<div class="w3-main w3-padding-large" style="margin-left:40%">
+<div class="w3-main w3-padding-large" style="margin-left:40%"></div>
+
  <header align=center style="padding:128px 16px">
     <h1><b>Roberto Chavez</b></h1>
     <p>This is my home page!I am a student at <a href='http://www.fullerton.edu/'>Cal State Fullerton</a> and my major is Computer Science.</p>
