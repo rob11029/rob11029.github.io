@@ -2,8 +2,9 @@
 <head>
 <style>
 body {background-color: powderblue;}
-h1   {color: red;}
-p    {color: red;}
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+h1   {color: Black;}
+p    {color: Black;}
 </style>
 </head>
 <body>
