@@ -22,8 +22,8 @@ p    {color: White;}
 <p>&nbsp;</p>
 <h3>Lab 6</h3>
 <p>The next best lab in my opinion was lab 6 part 1. Lab 6 part 1 constituted about of the sandwich discussion in which it sparked a conversation on what would we consider a sandwich, would a certain style, or ingredients dictate that? Personally I have a sandwich everyday for my lunch at work and it is nothing similar to what we discussed in class.</p>
-
-
+<h3>Lab 1</h3>
+<p>My third and final favorite lab was lab 1. I have to main reasons as to why this is my favorite, the first one being that I completely did it all myself because my lab partner didn&#39;t do his reading or even try for that fact at all. Lastly, and the most obvious reason being it was the first lab and the easiest of the semester of course.</p>
 
 </body>
 </html>
