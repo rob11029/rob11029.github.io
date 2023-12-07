@@ -20,7 +20,8 @@ p    {color: White;}
 <h3>Lab 8</h3>
 <p>Of my top 3 labs for this semester, Lab 8 was my favorite. Lab 8 was about poker and since I personally was really intrigued, not by the lab but actually learning how to play. I also really liked how we used one class slot to teach us how to play and all the key terms and styles of winning and playing.</p>
 <p>&nbsp;</p>
-
+<h3>Lab 6</h3>
+<p>The next best lab in my opinion was lab 6 part 1. Lab 6 part 1 constituted about of the sandwich discussion in which it sparked a conversation on what would we consider a sandwich, would a certain style, or ingredients dictate that? Personally I have a sandwich everyday for my lunch at work and it is nothing similar to what we discussed in class.</p>
 
 
 
